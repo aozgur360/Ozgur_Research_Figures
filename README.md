@@ -1,2 +1,2 @@
 # Ozgur_Research_Figures
-Selected figures from my PhD research at UC Irvine
+Selected research figures from my PhD thesis at UC Irvine
